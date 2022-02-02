@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning/working on **Flutter**
 
-- 📫 How to reach me **devshwetakc@gmail.com**
-
 - 🥅 2022 Goals [Contribute more to Open Source project(Interest: Bit Alarm)]
 
 - ⚡ Fun fact **I love to draw/Travel**
