@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning/working on **c#, vb, html,css, sql**
 
-<h2 align="center">Junior Application Developer</h2>
+<h3 align="center">Junior Application Developer</h3>
 
 - Worked **at astacraft**
 
