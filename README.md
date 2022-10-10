@@ -1,8 +1,14 @@
-<h3 align="center">Junior Application Developer</h3>
+<h3 align="center">Associate Software Engineer</h3>
 
-- 🔭 I’m currently working **at Astacraft**
+- 🔭 I’m currently working at **Cedargate**
 
-- 🌱 I’m currently learning/working on **Flutter**
+- 🌱 I’m currently learning/working on **c#, vb, html,css, sql**
+
+<h2 align="center">Junior Application Developer</h2>
+
+- Worked **at astacraft**
+
+- I have  worked on  **flutter**
 
 - 🥅 2022 Goals [Contribute more to Open Source project(Interest: Bit Alarm)]
 
